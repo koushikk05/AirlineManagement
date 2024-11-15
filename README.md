@@ -8,6 +8,9 @@ This is a flight management system built using Java. It allows users to manage t
 ### Login Screen
 ![Login Screen](Images/Login.png)
 
+### Home Page
+![Home Page](Images/Home_page.png)
+
 ### Add Customer Details
 ![Add Customer Details](Images/Add_Customer_Details.png)
 
