@@ -17,11 +17,11 @@ This is a flight management system built using Java. It allows users to manage t
 ### Book Flight
 ![Book Flight](Images/Book_Flight.png)
 
-### Cancellation
-![Cancellation](Images/Cancellation.png)
-
 ### Boarding Pass
 ![Boarding Pass](Images/Boarding_Pass.png)
+
+### Cancellation
+![Cancellation](Images/Cancellation.png)
 
 
 ## Features
