@@ -39,7 +39,7 @@ public class AddCustomer extends JFrame implements ActionListener{
         tfnationality.setBounds(220, 130, 150, 25);
         add(tfnationality);
         
-        JLabel lblaadhar = new JLabel("Aadhar Number");
+        JLabel lblaadhar = new JLabel("Passport Number");
         lblaadhar.setBounds(60, 180, 150, 25);
         lblaadhar.setFont(new Font("Tahoma", Font.PLAIN, 16));
         add(lblaadhar);

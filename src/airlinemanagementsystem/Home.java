@@ -14,7 +14,7 @@ public class Home extends JFrame implements ActionListener{
         image.setBounds(0, 0, 1600, 800);
         add(image);
         
-        JLabel heading = new JLabel("AIR INDIA WELCOMES YOU");
+        JLabel heading = new JLabel("AIRLINES WELCOMES YOU");
         heading.setBounds(500, 30, 1000, 60); 
         heading.setForeground(new Color(0, 51, 102)); 
         heading.setFont(new Font("Serif", Font.BOLD, 48)); 

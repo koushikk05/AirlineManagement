@@ -26,7 +26,7 @@ public class BookFlight extends JFrame implements ActionListener{
         add(heading);
 
         
-        JLabel lblaadhar = new JLabel("Aadhar");
+        JLabel lblaadhar = new JLabel("Passport");
         lblaadhar.setBounds(60, 80, 150, 25);
         lblaadhar.setFont(new Font("Tahoma", Font.PLAIN, 16));
         add(lblaadhar);
@@ -180,7 +180,7 @@ public class BookFlight extends JFrame implements ActionListener{
                     tfaddress.setText(rs.getString("address"));
                     labelgender.setText(rs.getString("gender"));
                 } else {
-                    JOptionPane.showMessageDialog(null, "Please enter correct aadhar");                
+                    JOptionPane.showMessageDialog(null, "Please enter correct Passport");                
                 }
             } catch (Exception e) {
                 e.printStackTrace();
