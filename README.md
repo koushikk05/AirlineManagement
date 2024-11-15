@@ -24,7 +24,7 @@ This is a flight management system built using Java. It allows users to manage t
 - **Login.java**: Manages the user login interface and authentication.
 
 ## Prerequisites
-- Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK)
 - MySQL Database
 - Required libraries (e.g., JDBC, JDateChooser for date input)
 
