@@ -9,7 +9,7 @@ This is a flight management system built using Java. It allows users to manage t
 ![Login Screen](Images/Login.png)
 
 ### Flight Booking
-![Home Page](Images/Home page.png)
+![Home Page](Images/Homepage.png)
 
 ## Features
 - **Add Customer**: Allows the addition of new customer information.
