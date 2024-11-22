@@ -3,6 +3,27 @@
 ## Overview
 This is a flight management system built using Java. It allows users to manage their flight bookings, including adding customers, booking flights, viewing flight information, and handling user login and registration.
 
+## Project Screenshots
+
+### Login Screen
+![Login Screen](Images/Login.png)
+
+### Home Page
+![Home Page](Images/Home_page.png)
+
+### Add Customer Details
+![Add Customer Details](Images/Add_Customer_Details.png)
+
+### Book Flight
+![Book Flight](Images/Book_Flight.png)
+
+### Boarding Pass
+![Boarding Pass](Images/Boarding_Pass.png)
+
+### Cancellation
+![Cancellation](Images/Cancellation.png)
+
+
 ## Features
 - **Add Customer**: Allows the addition of new customer information.
 - **Boarding Pass**: Manages boarding pass generation.
