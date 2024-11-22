@@ -9,7 +9,7 @@ This is a flight management system built using Java. It allows users to manage t
 ![Login Screen](Images/Login.png)
 
 ### Home Page
-![Home Page](Images/Home_page.png)
+![Home Page](Images/H.png)
 
 ### Add Customer Details
 ![Add Customer Details](Images/Add_Customer_Details.png)
@@ -18,7 +18,7 @@ This is a flight management system built using Java. It allows users to manage t
 ![Book Flight](Images/Book_Flight.png)
 
 ### Boarding Pass
-![Boarding Pass](Images/Boarding_Pass.png)
+![Boarding Pass](Images/Boarding.png)
 
 ### Cancellation
 ![Cancellation](Images/Cancellation.png)
